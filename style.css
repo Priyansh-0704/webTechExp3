@@ -1,0 +1,110 @@
+body {
+    background-color: rgb(37, 37, 37);
+    text-align: justify;
+    word-wrap: break-word;
+}
+
+.topClass
+{
+    padding-left: 135px;
+}
+
+p {
+    font-family: sans-serif;
+    width: 600px;
+    line-height: 1.2;
+    font-size: 21px;
+    margin-right: 75px;
+    color: white;
+}
+
+.topNavBar
+{
+    padding-left: 0px;
+    color: white;
+}
+
+.link1
+{
+    padding-left: 46px;
+}
+
+.link1BTN
+{
+    background-color: rgb(37, 37, 37);
+    color:white;
+    font-size: 18px;
+    border-style: none;
+}
+
+.firstVideo
+{
+    display: flex;
+}
+
+.imageBottom
+{
+    padding-left: 140px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.firstVideoText
+{
+    padding-left: 50px;
+    text-decoration: none;
+}
+
+.topImage
+{
+    height: 20px;
+}
+
+.belowText
+{
+    font-size: 15px;
+    padding-left: 135px;
+}
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+}
+
+.beginnerImg
+{
+    height: 15px;
+}
+
+.buttonBelow
+{
+    padding-left: 135px;
+}
+
+.startSeries
+{
+    background-color:rgba(183, 9, 9, 0.907);
+    border-radius: 8px;
+    display: inline-block;
+}
+
+.buttonImg
+{
+    height: 35px;
+}
+
+.image img
+{
+    margin-top: 75px;
+    height: 305px;
+    border-radius: 5px;
+}
+
+.topClass
+{
+    display: flex;
+}
+
+.button {
+    background-color: red;
+}
